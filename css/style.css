@@ -1,5 +1,21 @@
+
+.container-color{
+    background-color:white ;
+}
 .info-background{
     background-color:#f7eff3;
     color: blue;
-    mix-blend-mode: normal;
+    
 }
+.third-body-highlight{
+ background-color: #3F87F5;
+  
+
+}
+.list-color{
+    background-color: #3F87F5;
+}
+.filled{
+    color: white;
+}
+
